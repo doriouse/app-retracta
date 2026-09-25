@@ -21,9 +21,11 @@ O RETRACTA é um sistema IoT que automatiza um varal retrátil, utilizando senso
 
 **Instale no computador:**
 
-- Node.js
-- Python
-- Git
+- Node.js (winget install OpenJS.NodeJS)
+
+- Python (winget install Python.Python.3.14)
+
+- Git (winget install --id Git.Git -e --source winget)
 
 **Verifique:**
 
@@ -31,7 +33,7 @@ node --version
 
 npm --version
 
-python --version (winget install Python.Python.3.14)
+python --version
 
 git --version
 
