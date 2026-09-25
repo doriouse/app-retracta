@@ -49,7 +49,11 @@ Terminal 1 — backend:
 
 cd C:\Users\Dell\Documents\RETRACTA\backend
 
-pip install fastapi uvicorn    ->>    fastapi dev main.py 
+pip install fastapi uvicorn
+
+pip install "fastapi[standard]"
+
+fastapi dev main.py 
 
 Terminal 2 — app:
 
