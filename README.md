@@ -29,6 +29,8 @@ O RETRACTA é um sistema IoT que automatiza um varal retrátil, utilizando senso
 
 - fastapi (pip install fastapi uvicorn)
 
+- SqLAlchemy(pip install sqlalchemy)
+
 **Verifique:**
 
 node --version
