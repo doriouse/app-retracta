@@ -27,6 +27,8 @@ O RETRACTA é um sistema IoT que automatiza um varal retrátil, utilizando senso
 
 - Git (winget install --id Git.Git -e --source winget)
 
+- fastapi (pip install fastapi uvicorn)
+
 **Verifique:**
 
 node --version
@@ -47,7 +49,7 @@ Terminal 1 — backend:
 
 cd C:\Users\Dell\Documents\RETRACTA\backend
 
-fastapi dev main.py
+pip install fastapi uvicorn    ->>    fastapi dev main.py 
 
 Terminal 2 — app:
 
