@@ -12,7 +12,6 @@ O RETRACTA é um sistema IoT que automatiza um varal retrátil, utilizando senso
 - SQLAlchemy
 - SQLite
 - ESP32 (integração futura)
-- Modelo 3D do produto
 
 ---
 
